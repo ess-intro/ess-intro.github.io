@@ -1,0 +1,35 @@
+---
+title: "Emacs Speaks Statistics -- Introductions"
+output: github_document
+---
+
+## About
+
+The _ESS Introductions_ regroup several introductory presentation videos and
+support vignettes or files. It is _work in progress_ so please revisit frequently.
+
+## Current Status
+
+| <span>Title</span>     | <span>Author</span>                                  | <span>Video Link</span>                 | <span>Support Material</span>                                                                         | <span>Repository</span>                                       |
+|:-----------------------|:-----------------------------------------------------|:----------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| First Steps with Emacs | [Dirk Eddelbuettel](https://github.com/eddelbuettel) | [YouTube](https://youtu.be/RDUQIx5LvnU) | [PDF Slides](https://github.com/ess-intro/presentation-first-steps/blob/master/first-steps.pdf) | [Repo](https://github.com/ess-intro/presentation-first-steps) |
+| ESS Customization      | [Frédéric Santos](https://github.com/frederic-santos)| [YouTube](https://youtu.be/Lf8qrLuvYp8) | [PDF Slides](https://github.com/ess-intro/presentation-ess-customization/blob/main/tutorial/slides-ess-customization.pdf), [Emacs ess-init.el](https://github.com/ess-intro/presentation-ess-customization/blob/main/tutorial/ess-init.el)      | [Repo](https://github.com/ess-intro/presentation-ess-customization)    |
+
+## Repositories
+
+See [the GitHub organisation ess-intro](https://github.com/ess-intro) is
+where it all happens.
+
+## Copyright
+
+All material is copyright by their respective creators.
+
+## License
+
+We strive to have all material available under approved Open Source
+licenses. Contributors can choose their licensing terms provided these fit
+the overall guideline.
+
+
+
+
