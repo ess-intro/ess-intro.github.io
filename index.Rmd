@@ -20,6 +20,11 @@ support vignettes or files. It is _work in progress_ so please revisit frequentl
 See [the GitHub organisation ess-intro](https://github.com/ess-intro) is
 where it all happens.
 
+## Wiki
+
+The [wiki of the ess-intro repo](https://github.com/ess-intro/ess-intro/wiki)
+is a good starting point for additional information.
+
 ## Copyright
 
 All material is copyright by their respective creators.
