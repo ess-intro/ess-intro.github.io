@@ -10,20 +10,21 @@ support vignettes or files. It is _work in progress_ so please revisit frequentl
 
 ## Current Status
 
-| <span>Title</span>     | <span>Author</span>                                  | <span>Video Link</span>                 | <span>Support Material</span>                                                                         | <span>Repository</span>                                       |
-|:-----------------------|:-----------------------------------------------------|:----------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| First Steps with Emacs | [Dirk Eddelbuettel](https://github.com/eddelbuettel) | [YouTube](https://youtu.be/1YOrd7NCGkg) | [PDF Slides](https://github.com/ess-intro/presentation-first-steps/blob/master/first-steps.pdf) | [Repo](https://github.com/ess-intro/presentation-first-steps) |
-| ESS Customization      | [Frédéric Santos](https://github.com/frederic-santos)| [YouTube](https://youtu.be/Lf8qrLuvYp8) | [PDF Tutorial](https://github.com/ess-intro/presentation-ess-customization/blob/main/tutorial/ess-customization.pdf), [Emacs ess-init.el](https://github.com/ess-intro/presentation-ess-customization/blob/main/tutorial/ess-init.el)      | [Repo](https://github.com/ess-intro/presentation-ess-customization)    |
+| <span>Title</span>       | <span>Author</span>                                    | <span>Video Link</span>                   | <span>Support Material</span>                                                                                                                                                                                                         | <span>Repository</span>                                              |
+| :----------------------- | :----------------------------------------------------- | :---------------------------------------- | ---------------------------------------------------------------------------------------------                                                                                                                                         | ---------------------------------------------------------------      |
+| First Steps with Emacs   | [Dirk Eddelbuettel](https://github.com/eddelbuettel)   | [YouTube](https://youtu.be/1YOrd7NCGkg)   | [PDF Slides](https://github.com/ess-intro/presentation-first-steps/blob/master/first-steps.pdf)                                                                                                                                       | [Repo](https://github.com/ess-intro/presentation-first-steps)        |
+| ESS Customization        | [Frédéric Santos](https://github.com/frederic-santos)  | [YouTube](https://youtu.be/Lf8qrLuvYp8)   | [PDF Tutorial](https://github.com/ess-intro/presentation-ess-customization/blob/main/tutorial/ess-customization.pdf), [Emacs ess-init.el](https://github.com/ess-intro/presentation-ess-customization/blob/main/tutorial/ess-init.el) | [Repo](https://github.com/ess-intro/presentation-ess-customization)  |
+| ESS with Spacemacs       | [Alexander Zarebski](https://github.com/aezarebski)    | [YouTube](https://youtu.be/P6O1s2XHphI)   | [PDF Slides](https://github.com/ess-intro/presentation-ess-from-spacemacs/raw/main/presentation/slides.pdf), [Quickstart guide](https://github.com/ess-intro/presentation-ess-from-spacemacs/blob/main/presentation/README.org)       | [Repo](https://github.com/ess-intro/presentation-ess-from-spacemacs) |
 
 ## Repositories
 
-See [the GitHub organisation ess-intro](https://github.com/ess-intro) is
-where it all happens.
+See [the GitHub organisation ess-intro](https://github.com/ess-intro) is where
+it all happens.
 
 ## Wiki
 
-The [wiki of the ess-intro repo](https://github.com/ess-intro/ess-intro/wiki)
-is a good starting point for additional information.
+The [wiki of the ess-intro repo](https://github.com/ess-intro/ess-intro/wiki) is
+a good starting point for additional information.
 
 ## Copyright
 
@@ -31,9 +32,9 @@ All material is copyright by their respective creators.
 
 ## License
 
-We strive to have all material available under approved Open Source
-licenses. Contributors can choose their licensing terms provided these fit
-the overall guideline.
+We strive to have all material available under approved Open Source licenses.
+Contributors can choose their licensing terms provided these fit the overall
+guideline.
 
 
 
