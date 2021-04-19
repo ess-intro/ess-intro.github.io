@@ -28,6 +28,17 @@ it all happens.
 The [wiki of the ess-intro repo](https://github.com/ess-intro/ess-intro/wiki) is
 a good starting point for additional information.
 
+## Feedback and getting in touch
+
+If you have suggestions or questions about a particular presentation, please
+feel free to open an issue in the repository. Or if you have some meta
+information about the presentations, you can open an issue in the [ESS intros
+project's repository](https://github.com/ess-intro/ess-intro/issues). Finally,
+if you are looking for generic help with ESS (and can't find a solution in the
+[documentation](http://ess.r-project.org/Manual/ess.html)), you can sign up for
+the ESS Discussion and Help mailing list
+[here](https://stat.ethz.ch/mailman/listinfo/ess-help).
+
 ## Copyright
 
 All material is copyright by their respective creators.
