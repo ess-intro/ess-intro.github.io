@@ -10,6 +10,9 @@ support vignettes or files. It is _work in progress_ so please revisit frequentl
 
 ## Current Status
 
+All the videos are available on the [YouTube
+Channel](https://www.youtube.com/channel/UCph8LPTQ8gkNnKf1WHF2Tgg/featured).
+
 | <span>Title</span>       | <span>Author</span>                                    | <span>Video Link</span>                   | <span>Support Material</span>                                                                                                                                                                                                         | <span>Repository</span>                                              |
 | :----------------------- | :----------------------------------------------------- | :---------------------------------------- | ---------------------------------------------------------------------------------------------                                                                                                                                         | ---------------------------------------------------------------      |
 | First Steps with Emacs   | [Dirk Eddelbuettel](https://github.com/eddelbuettel)   | [YouTube](https://youtu.be/1YOrd7NCGkg)   | [PDF Slides](https://github.com/ess-intro/presentation-first-steps/blob/master/first-steps.pdf)                                                                                                                                       | [Repo](https://github.com/ess-intro/presentation-first-steps)        |
